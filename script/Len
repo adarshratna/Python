@@ -1,0 +1,3 @@
+phrase = "ABLEALLY"
+
+print(len(phrase))
